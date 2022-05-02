@@ -7,10 +7,10 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #396E94   ;
-  --secondary-color: #E7C24F ;
+  --primary-color: #00A7E1   ;
+  --secondary-color: #003459 ;
   --accent1-color: #A42212;
-  --accent2-color: white;
+  --accent2-color: #FFFFFF;
 
   /* change the values below to your chosen font(s) */
   --heading-font: 'Titillium Web', sans-serif;;
